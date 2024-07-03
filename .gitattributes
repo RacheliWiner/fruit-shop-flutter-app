@@ -1,3 +1,6 @@
+# Specify Dart as the main language
 *.dart linguist-language=Dart
+
+# Exclude C++ files from language statistics
 *.cpp linguist-vendored
 *.h linguist-vendored
